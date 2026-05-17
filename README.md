@@ -1,3 +1,4 @@
+![Banner](./banner.png)
 # Microsoft Sentinel KQL Detection Rules
 
 > Production-ready KQL detection rules for Microsoft Sentinel, organized by MITRE ATT&CK tactic
